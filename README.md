@@ -54,3 +54,4 @@ Make sure you have [Node.js](https://nodejs.org/) (v18+) installed.
    ```
 4. Open http://localhost:3000 in your browser.
 
+**Stopping the Server:** Press `Ctrl + C` in the terminal to stop the development server.
