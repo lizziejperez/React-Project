@@ -41,7 +41,7 @@ These projects are built with a modern front-end stack commonly used in professi
 Make sure you have [Node.js](https://nodejs.org/) (v18+) installed.
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/React-Project.git
+   git clone https://github.com/lizziejperez/React-Project.git
    cd React-Project/react-app
    ```
 2. Install dependencies:
